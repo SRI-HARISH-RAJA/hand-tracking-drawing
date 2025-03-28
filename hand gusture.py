@@ -117,3 +117,4 @@ while cap.isOpened():
 hands.close()
 cap.release()
 cv2.destroyAllWindows()
+#harish
